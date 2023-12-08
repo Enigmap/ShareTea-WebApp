@@ -8,7 +8,8 @@ The Sharetea Web Application is the new digital face of Sharetea, offering a sea
 
 The Sharetea Web Application is deployed and accessible via the following URL:
 
-[Visit Sharetea](https://project-3-904-03-sharetea.vercel.app/)
+[Visit Sharetea](https://sharetea.shop/)
+[Mirror](https://project-3-904-03-sharetea.vercel.app/)
 
 ## Running the Application Manually
 
